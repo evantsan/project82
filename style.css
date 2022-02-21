@@ -1,0 +1,16 @@
+body{
+    background: #ff0000;
+    background: linear-gradient(225deg,#ff0000 0%, #000000 10%, #ff0000 20%, #000000 30%, #ff0000 40%, #000000 50%, #ff0000 60%, #000000 70%, #ff0000 80%, #000000 90%, #ff0000 100%);
+    background: -webkit-linear-gradient(225deg,#ff0000 0%, #000000 10%, #ff0000 20%, #000000 30%, #ff0000 40%, #000000 50%, #ff0000 60%, #000000 70%, #ff0000 80%, #000000 90%, #ff0000 100%);
+    background: -moz-linear-gradient(225deg,#ff0000 0%, #000000 10%, #ff0000 20%, #000000 30%, #ff0000 40%, #000000 50%, #ff0000 60%, #000000 70%, #ff0000 80%, #000000 90%, #ff0000 100%);  
+}
+h1{
+    color: white;
+}
+canvas{
+    border: 8px ridge black;
+    background-color: aliceblue;
+}
+p{
+    color: white;
+}
